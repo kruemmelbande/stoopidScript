@@ -8,4 +8,5 @@ mkdir build
 move .\dist\stoopidScript.exe .\build\stoopidScript.exe
 rmdir /q /s .\dist
 del stoopidScript.spec
+del 3.*
 echo build done!
